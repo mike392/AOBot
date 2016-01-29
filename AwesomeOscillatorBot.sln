@@ -1,0 +1,30 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeOscillatorBot", "AwesomeOscillatorBot\AwesomeOscillatorBot.csproj", "{9CFEA156-036B-42E2-8DEB-524D996CD7E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFEA156-036B-42E2-8DEB-524D996CD7E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFEA156-036B-42E2-8DEB-524D996CD7E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFEA156-036B-42E2-8DEB-524D996CD7E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFEA156-036B-42E2-8DEB-524D996CD7E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeOscillator", "..\..\Indicators\AwesomeOscillator\AwesomeOscillator\AwesomeOscillator.csproj", "{99E5A257-7C9B-4EEA-ADC3-EBCEF7BBF379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laguerre_RSI", "..\..\Indicators\Laguerre_RSI\Laguerre_RSI\Laguerre_RSI.csproj", "{5E887C73-716D-4807-87F1-5862824B6F23}"
+EndProject
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IVar", "..\..\Indicators\IVar\IVar\IVar.csproj", "{82C36A21-50A8-4F1C-ACEC-D94435D4779E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualitativeQuantitativeE", "..\..\Indicators\QualitativeQuantitativeE\QualitativeQuantitativeE\QualitativeQuantitativeE.csproj", "{A5AD781B-D541-4CB8-B81F-74E83433AE4D}"
+EndProject
